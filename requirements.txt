@@ -1,0 +1,6 @@
+scikit-learn==1.4.0
+matplotlib==3.8.3
+pandas==2.2.0
+opencv-python==4.5.5.64
+tqdm==4.66.2
+nystrom_attention==0.0.11
