@@ -1,6 +1,6 @@
 # MICIL: Multiple Instance Class-Incremental Learning
 ![Alt text](MICIL.jpg)
-MICIL: Multiple-Instance Class-Incremental Learning for skin cancer whole slide images
+[MICIL: Multiple-Instance Class-Incremental Learning for skin cancer whole slide images](https://doi.org/10.1016/j.artmed.2024.102870)
 
 [Pablo Meseguer<sup>1,2</sup>](https://scholar.google.es/citations?user=4r9lgdAAAAAJ&hl=es&oi=ao), [Rocío del Amor<sup>1</sup>](https://scholar.google.es/citations?user=CPCZPNkAAAAJ&hl=es&oi=ao), [Valery Naranjo<sup>1,2</sup>](https://scholar.google.com/citations?user=jk4XsG0AAAAJ&hl=es&oi=ao)
 
